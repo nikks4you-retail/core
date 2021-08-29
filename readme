@@ -1,3 +1,6 @@
 done editing
 How to scan sonalqube:
 mvn clean deploy sonar:sonar
+
+How to deploy the app into tomcat
+mvn tomcat:timcat
