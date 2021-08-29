@@ -1,4 +1,11 @@
 pipeline{
+
 tools{
+
+
+stages{
+
+stage()
+
 }
 }
