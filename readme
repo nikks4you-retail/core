@@ -1,1 +1,3 @@
 done editing
+How to scan sonalqube:
+mvn clean deploy sonar:sonar
